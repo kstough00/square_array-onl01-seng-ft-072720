@@ -2,6 +2,6 @@ new_array=[]
 
 def square_array(array)
   array.each do |number|
-    puts "#{number}**2"
+    new_array << "#{number}**2"
   end
 end
