@@ -3,5 +3,3 @@ def square_array(array)
     array << "#{number}**2"
   end
 end
-
-square_array
